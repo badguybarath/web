@@ -1,19 +1,5 @@
-/*----------------------------------------------------
-@File: Default Styles
-@Author: Rocky
-@URL: http://wethemez.com
-Author E-mail: rockybd1995@gmail.com
 
-This file contains the styling for the actual theme, this
-is the file you need to edit to change the look of the
-theme.
----------------------------------------------------- */
 /*=====================================================================
-@Template Name: Bitmap
-@Author: Rocky
-@Developed By: Rocky
-@Developer URL: http://rocky.wethemez.com
-Author E-mail: rockybd1995@gmail.com
 
 @Default Styles
 
@@ -3567,12 +3553,14 @@ h1, h2, h3, h4, h5, h6 {
 
 .text-block {
   position: relative;
-  bottom: 20px;
-  right: 20px;
+  border: 3px solid #0cf589;
+  left: 10px;
+  /*bottom: 20px;*/
+  /*right: 20px;*/
   background-color: rgba(54, 53, 53, 0.66);
   color: #ffffff;
-  padding-left: 20px;
-  padding-right: 20px;
+  /*padding-left: 05px;*/
+  /*padding-right: 20px;*/
 }
 
 div.b {
